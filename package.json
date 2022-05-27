@@ -1,6 +1,6 @@
 {
   "name": "network-mapper",
-  "version": "1.0.5",
+  "version": "1.0.5b",
   "type": "commonjs",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
@@ -15,7 +15,7 @@
     "lib"
   ],
   "keywords": [
-    "nmap",
+    "oups",
     "network",
     "mapper",
     "scanner",
