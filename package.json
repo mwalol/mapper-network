@@ -1,6 +1,6 @@
 {
   "name": "network-mapper",
-  "version": "1.0.5b",
+  "version": "1.0.100",
   "type": "commonjs",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
